@@ -1,6 +1,6 @@
 {
-  "name": "Web App Saya",
-  "short_name": "WebApp",
+  "name": "Task Manager",
+  "short_name": "Tugas",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
